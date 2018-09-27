@@ -7,4 +7,4 @@ The dataset used in this project is from [here](https://www.ibm.com/communities/
 #### References:
 * Tackling imbalance dataset: [8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 * Gradient Boosting (GBM): [Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
-
+* [HR ANALYTICS: USING MACHINE LEARNING TO PREDICT EMPLOYEE TURNOVER](https://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
