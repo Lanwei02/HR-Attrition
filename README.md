@@ -5,4 +5,5 @@ The dataset used in this project is from [here](https://www.ibm.com/communities/
 
 
 References:
+Tackling imbalance dataset: [8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 
