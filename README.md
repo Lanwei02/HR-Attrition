@@ -11,5 +11,5 @@ The dataset used in this project is from [here](https://www.ibm.com/communities/
 * [9 Employee Retention Statistics That Will Make You Sit Up and Pay Attention](https://www.tlnt.com/9-employee-retention-statistics-that-will-make-you-sit-up-and-pay-attention/)
 * [People Analytics with Attrition Predictions](https://towardsdatascience.com/people-analytics-with-attrition-predictions-12adcce9573f)
 * [Employee Turnover Vs. Attrition](https://smallbusiness.chron.com/employee-turnover-vs-attrition-15846.html)
-* Bias and variance[Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
-* kaggle kernal[Employee attrition via Ensemble tree-based methods](https://www.kaggle.com/arthurtok/employee-attrition-via-ensemble-tree-based-methods)
+* Bias and variance: [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
+* kaggle kernal: [Employee attrition via Ensemble tree-based methods](https://www.kaggle.com/arthurtok/employee-attrition-via-ensemble-tree-based-methods)
