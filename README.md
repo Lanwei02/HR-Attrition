@@ -4,6 +4,7 @@ The dataset used in this project is from [here](https://www.ibm.com/communities/
 * Analyzed critical features to figure out the reasons for employee attrition.
 
 **Features May Affect Employee Trunover**
+
 | Features | Description |
 | --- | --- |
 | 1. MonthlyIncome | Employees who quit have lower monthly income; The correlation between Monthly income and attrition is negative means employees with higher income have the lower possibility to leave. |
