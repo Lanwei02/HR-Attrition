@@ -6,9 +6,16 @@ The dataset used in this project is from [here](https://www.ibm.com/communities/
 **Features May Affect Employee Trunover**
 | Features | Description |
 | --- | --- |
-| MonthlyIncome | * Employees who quit have lower monthly income；
-* The correlation between Monthly income and attrition is negative means employees with higher income have the lower possibility to leave.|
-| git diff | Show file differences that haven't been staged |
+| 1. MonthlyIncome | Employees who quit have lower monthly income; The correlation between Monthly income and attrition is negative means employees with higher income have the lower possibility to leave. |
+| 2. Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
+| Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
+| Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
+| Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
+| Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
+| Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
+| Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
+| Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
+| Daily rate | Employees with lower daily rate have higher possibility to leave the comp |
 
 
 **References:**
