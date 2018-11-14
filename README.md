@@ -3,9 +3,11 @@ The dataset used in this project is from [here](https://www.ibm.com/communities/
 * Implemented decision tree, random forest and gradient boosting to build a model that could identify 71.42%(recall) of employee attrition by tackling data imbalance using up-sampling, down-sampling and SMOTE, and adjusting the threshold.
 * Analyzed critical features to figure out the reasons for employee attrition.
 
-| Command | Description |
+**Features May Affect Employee Trunover**
+| Features | Description |
 | --- | --- |
-| git status | List all new or modified files |
+| MonthlyIncome | * Employees who quit have lower monthly income；
+* The correlation between Monthly income and attrition is negative means employees with higher income have the lower possibility to leave.|
 | git diff | Show file differences that haven't been staged |
 
 
