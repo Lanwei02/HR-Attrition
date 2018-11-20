@@ -13,3 +13,6 @@ The dataset used in this project is from [here](https://www.ibm.com/communities/
 * [Employee Turnover Vs. Attrition](https://smallbusiness.chron.com/employee-turnover-vs-attrition-15846.html)
 * Bias and variance: [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
 * kaggle kernal: [Employee attrition via Ensemble tree-based methods](https://www.kaggle.com/arthurtok/employee-attrition-via-ensemble-tree-based-methods)
+* Advantages & distadvantages of different imbalanced dataset handling methods[How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+* Imbalanced dataset & Random Forest [Multi-class Classification on Imbalanced Data using Random Forest Algorithm in Spark](https://www.linkedin.com/pulse/multi-class-classification-imbalanced-data-using-random-burak-ozen/)
+* Introduction of ensemble concepts(good one)[5 Easy questions on Ensemble Modeling everyone should know](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/)
